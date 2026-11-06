@@ -1,0 +1,10 @@
+--- old.csv vs new.csv ---
+examples/old.csv vs examples/new.csv (key: id)
+1 row(s) changed, 1 row(s) added, 1 row(s) removed
+Changed id=2 (old line 3, new line 3):
+  price: "0.50" => "0.60"
+Added id=4 (new line 4): id=4, name=Daffodil, price=3.00, stock=15
+Removed id=3 (old line 4): id=3, name=Cherry, price=2.50, stock=30
+--- same-a.csv vs same-b.csv ---
+examples/same-a.csv vs examples/same-b.csv (key: id)
+No differences.
